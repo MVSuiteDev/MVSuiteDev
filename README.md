@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MVSuiteDev
 - 👀 I’m interested in Javascript coding
-- 🌱 I’m currently learning Javascript coding
+- 🌱 I’m currently learning nothing lol
 - 💞️ I’m looking to collaborate on random things
 - 📫 You can reach me at kwomie379@outlook.com
 
